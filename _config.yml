@@ -1,8 +1,8 @@
 # Site settings
-title: styrr.com - Web Developer
-email: admin@styrr.com
+title: styrr.com - web developer
+email: alex@styrr.com
 description: > # this means to ignore newlines until "baseurl:"
-  styrr.com - Web Developer
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://styrr.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
