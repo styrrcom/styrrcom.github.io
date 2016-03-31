@@ -9,7 +9,7 @@
   <div style="margin-left:20px;margin-bottom:1em;font-size:10pt">
     <p>
     <xsl:value-of select="date"/>
-    <span style="font-style:italic"> (аудитория<xsl:value-of select="room"/>)</span>
+    <span style="font-style:italic"> (аудитория <xsl:value-of select="room"/>)</span>
     </p>
   </div>
 </xsl:for-each>
