@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lab2.xsl" ?>
+<schedule>
+
+  <subject>
+    <name>Мировые информационные ресурсы и сети</name>
+    <teacher>Левченко А.Н.</teacher>
+    <date>08.02 - 28.03</date>
+    <room>0411</room>
+  </subject>
+
+  <subject>
+    <name>Моделирование информационных систем</name>
+    <teacher>Климанов В.П.</teacher>
+    <date>09.02 - 12.04</date>
+    <room>0206</room>
+  </subject>
+
+  <subject>
+    <name>Проектирование информационных систем</name>
+    <teacher>Мышенков К.С.</teacher>
+    <date>11.02 - 14.04</date>
+    <room>0308</room>
+  </subject>
+
+  <subject>
+    <name>Обеспечение качества информационных систем</name>
+    <teacher>Поляков С.Д.</teacher>
+    <date>11.02 - 31.03</date>
+    <room>0308</room>
+  </subject>
+
+</schedule>
